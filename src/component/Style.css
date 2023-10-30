@@ -1,6 +1,5 @@
 header,footer{
-    height: 33px;
-    background-color: aqua;
+    height: 70px;
     border: 3px solid blue;
 }
 main{
@@ -10,4 +9,7 @@ main{
 .cont{
     height: 500px;
     border: 2px solid red;
+}
+.border{
+    border: 2px solid green;
 }
